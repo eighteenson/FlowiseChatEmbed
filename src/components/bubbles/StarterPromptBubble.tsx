@@ -14,7 +14,7 @@ export const StarterPromptBubble = (props: Props) => (
         class="px-2 py-1 ml-1 whitespace-pre-wrap max-w-full chatbot-host-bubble"
         data-testid="host-bubble"
         style={{
-          width: 'max-content',
+          // width: 'max-content',
           'font-size': '15px',
           'border-radius': '15px',
           cursor: 'pointer',
